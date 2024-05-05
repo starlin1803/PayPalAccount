@@ -1,3 +1,0 @@
-# PayPalAccount
-
-Cuenta de PayPal
